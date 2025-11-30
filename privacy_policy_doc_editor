@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DOC Editor: PDF, DOCX, XLSX - Privacy Policy</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #fff;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      padding: 20px;
+    }
+    header .container {
+      max-width: 900px;
+      margin: auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 22px;
+      font-weight: bold;
+    }
+    header nav a {
+      margin-left: 20px;
+      text-decoration: none;
+      color: #555;
+      font-size: 14px;
+    }
+    header nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .card {
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+    h2 {
+      font-size: 28px;
+      margin-bottom: 15px;
+    }
+    h3 {
+      font-size: 20px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+    }
+    ol {
+      padding-left: 20px;
+    }
+    footer {
+      background: #fff;
+      padding: 20px;
+      text-align: center;
+      margin-top: 40px;
+      color: #666;
+      font-size: 14px;
+    }
+    .footer-tags span {
+      margin-right: 15px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>DOC Editor: PDF, DOCX, XLSX</h1>
+    <nav>
+      <a href="#contact">Contact</a>
+      <a href="#privacy">Privacy</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="card">
+    <h2 id="privacy">Privacy Policy</h2>
+
+    <h3>Overview</h3>
+    <p>
+      Pixel Sage built the DOC Editor: PDF, DOCX, XLSX app as a Free app.
+      This SERVICE is provided by Pixel Sage at no cost and is intended for use as is.
+    </p>
+
+    <h3>Information We Collect & Why</h3>
+    <p>
+      This page informs visitors regarding our policies with the collection, use, and disclosure of Personal
+      Information if anyone decides to use our Service.
+    </p>
+    <p>
+      If you choose to use our Service, then you agree to the collection and use of information in relation to this
+      policy. The Personal Information that we collect is used for providing and improving the Service. We will not
+      use or share your information with anyone except as described in this Privacy Policy.
+    </p>
+
+    <h3>Permissions in the Document Manager App</h3>
+    <ol>
+      <li>Access Network State</li>
+      <li>Internet</li>
+      <li>Write External Storage</li>
+      <li>Read External Storage</li>
+    </ol>
+
+    <h3>How Your information may be disclosed</h3>
+    <p>
+      Personal Information: In general, we use Session and Usage Data internally to serve our Users and enable them
+      to take maximum advantage of the Applications and Services. We do not store Personal Information and therefore
+      do not disclose it.
+    </p>
+    <p>
+      Non-Personal Information may be disclosed to trusted partners who comply with this privacy policy and
+      applicable laws.
+    </p>
+
+    <h3>Service Providers</h3>
+    <p>
+      We may employ third-party companies and individuals to facilitate our Service, provide the Service on our
+      behalf, perform Service-related tasks, or help analyze usage. These parties have access to your Personal
+      Information only to perform assigned tasks.
+    </p>
+
+    <h3>Security</h3>
+    <p>
+      We value your trust in providing us your Personal Information; thus we use commercially acceptable means to
+      protect it. But no method of transmission over the internet or electronic storage is 100% secure.
+    </p>
+
+    <h3>Links to Other Sites</h3>
+    <p>
+      This Service may contain links to external websites. We strongly advise reviewing their Privacy Policies as we
+      are not responsible for their content or practices.
+    </p>
+
+    <h3>Children’s Privacy</h3>
+    <p>
+      These Services do not address anyone under the age of 13. We do not knowingly collect personal information from
+      children under 13.
+    </p>
+
+    <h3>Changes to This Privacy Policy</h3>
+    <p>
+      The policy may be updated occasionally. Please review it periodically for changes.
+    </p>
+
+    <h3>Account Deletion Policy</h3>
+    <p>
+      Users can request account deletion anytime via profile → settings. Once deleted, all personal data is removed
+      permanently and cannot be restored.
+    </p>
+
+    <h3 id="contact">Contact Us</h3>
+    <p>If you have any questions or suggestions, contact us through app support.</p>
+  </div>
+</main>
+
+<footer>
+  © 2025 Pixel Sage
+</footer>
+
+</body>
+</html>
